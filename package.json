@@ -1,0 +1,26 @@
+{
+  "name": "poppy-ai-search",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@ai-sdk/react": "^1.2.11",
+    "ai": "^2.2.37",
+    "autoprefixer": "^10.4.14",
+    "next": "13.4.12",
+    "postcss": "^8.4.21",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-icons": "^4.12.0",
+    "tailwindcss": "^3.4.1"
+  },
+  "devDependencies": {
+    "@types/node": "22.15.3",
+    "@types/react": "19.1.2",
+    "typescript": "^5.3.3"
+  }
+}
